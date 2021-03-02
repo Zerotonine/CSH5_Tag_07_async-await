@@ -1,0 +1,7 @@
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\bin\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.exe.config
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\bin\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.exe
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\bin\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.pdb
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\obj\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.csprojAssemblyReference.cache
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\obj\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.csproj.CoreCompileInputs.cache
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\obj\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.exe
+C:\Users\Phil\source\repos\CSH5_Tag_7_Async-Await_Productionzeugs\CSH5_Tag_7_Async-Await_Productionzeugs\obj\Debug\CSH5_Tag_7_Async-Await_Productionzeugs.pdb

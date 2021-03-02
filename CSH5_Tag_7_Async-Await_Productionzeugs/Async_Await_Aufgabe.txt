@@ -1,0 +1,24 @@
+Wir haben eine Produktionsstätte
+
+Pro Runde werden zwischen 60 und 80 Rohstoffe verbraucht, um ein Gut zu erstellen
+
+Wir starten mit 1000 Rohstoffen
+
+Wir haben 2 Schwellwerte bei denen etwas passieren soll
+
+Schwellwert 1: 500 Rohstoffe
+Bei erreichen dieses Schwellwerts wird eine Asynchrone Methode gestartet, die
+Rohstoffe zur Produktion hinzufügt. Pro Durchgang werden 100 Rohstoffe hinzugefügt.
+
+Schwellwert 2: 100 Rohstoffe
+ALARM!!!!! Hier wird die Produktion gestoppt!!!
+Es werden so lange Rohstoffe zur Produktion gebracht, bis 900 Rohstoffe vorhanden sind.
+Dann geht die Produktion weiter.
+
+
+Wir arbeiten mit Thread.Sleep()!
+
+Für die Produktion: Dauer einer Runde 500 ms
+Für das asynchrone Auffüllen: Dauer einer Runde 1000 ms
+Für das synchrone Auffüllen: Dauer einer Runde 1000 ms
+
